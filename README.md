@@ -1,3 +1,4 @@
 # nyc-yellow-taxi-analysis
 
-# testing git integeration
+# How to connect Databricks to VS code
+https://www.youtube.com/watch?v=v15X2TZwpJs
